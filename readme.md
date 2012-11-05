@@ -40,6 +40,6 @@ return array(
 
 Below are two screenshots of the dashboard in action using the configuration above. The second screenshot shows what happens when you click a row in the sites table. It will show you details about the errors.
 
-(http://i.imgur.com/oIXmm.png)
+![Screen 1](http://i.imgur.com/oIXmm.png)
 
-(http://i.imgur.com/yXUj1.png)
+![Screen 2](http://i.imgur.com/yXUj1.png)
