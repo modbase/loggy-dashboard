@@ -2,7 +2,10 @@
 
 This is the Loggy Dashboard. It is to be used in combination with the Loggy bundle.
 
-## Configuration
+## Installation and configuration
+
+1. Install the migrations table if you haven't already: `php artisan migrate:install`.
+2. All you have to do now is run the migrations: `php artisan migrate`. This will create a __logitems__ table where all the log entries will live.
 
 In `application/config/loggy.php` add all your sites that need to be monitored:
 
